@@ -1,0 +1,60 @@
+#title{
+    background-color: #ff4c68;
+    color: #fff;
+}
+.container-fluid{
+    padding: 3% 15%;
+}
+#features{
+    width: fit-content;
+    background-color: #ef8172;
+    
+}
+h1{
+    font-family: sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.navbar-brand{
+    font-family: "Sofia", sans-serif;
+    font: size 3rem;
+    text-shadow: 3px 3px 3px #ababab;
+}
+.nav-item{
+    padding: 0 18Px;
+}
+#testimonials {
+    padding: 7% 15%;
+    color: #fff;
+    text-align: center;
+    background-color: #ef8172;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%
+
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 30px;
+}
+#pricing{
+    padding: 100px;
+    background-color: coral
+}
+.pricing-col{
+    padding: 3% 2%;
+    background-color: black;
+}
+#footer{
+    background-color: #ef8172;
+}
+#cta{
+    background-color: #ef8172;
+}
